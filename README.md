@@ -5,7 +5,6 @@
 - 👨‍💻 I’m currently learning framework JavaScript and React
 - 📚 I am a student at SMK Telkom Malang majoring Software Engingeering
 - 💪🏼 Future Goals: Never stop creating new ideas.
-- ⚡ Fun fact: I'm always fallin love w/ ppl i can't have, LMAO
 
 ---
 
